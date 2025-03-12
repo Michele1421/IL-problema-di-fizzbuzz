@@ -14,4 +14,4 @@ function Ilproblemadifizzbuzz(N) {
 
 
 let numero = parseInt(prompt("Inserisci un numero: "),);
-Ilproblemadifizzuzz(numero);
+Ilproblemadifizzbuzz(numero);
